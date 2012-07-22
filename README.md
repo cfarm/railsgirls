@@ -1,4 +1,4 @@
 railsgirls
 ==========
 
-rails app built using rails girls tutorials
+Ruby on Rails app built using [Rails Girls tutorials](http://guides.railsgirls.com/)
