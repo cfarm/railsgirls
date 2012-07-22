@@ -1,4 +1,5 @@
 Railsgirls::Application.routes.draw do
+  root :to => redirect("/ideas")
   resources :ideas
 
   # The priority is based upon order of creation:
